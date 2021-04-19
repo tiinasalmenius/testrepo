@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T06:34:32.404Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="xSHjRnvEPL6BRxjbFfBI" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-19T07:48:03.657Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="n4JN4o4PrUEmTY9pgULX" version="14.6.1" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="981" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="5hGGPx97m1Oe2WC8NHgX-2" value="Personec" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
           <mxGeometry x="500" y="410" width="160" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-5" value="Hlönumero&lt;br&gt;Ikä&lt;br&gt;Työsuhteen kesto&lt;br&gt;Työtehtävä&lt;br&gt;Toimipaikka&lt;br&gt;Tiimi tai esimies" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=top;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-2">
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-5" value="Ikä&lt;br&gt;Työsuhteen kesto&lt;br&gt;Työtehtävä&lt;br&gt;Toimipaikka&lt;br&gt;Tiimi tai esimies" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=top;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-2">
           <mxGeometry y="30" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5hGGPx97m1Oe2WC8NHgX-6" value="Sole" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
