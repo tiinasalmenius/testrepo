@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T06:15:08.501Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="XhbLU0tQ7lwxXno7IGGU" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-19T06:26:45.682Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="P4ynuRTJ4Dk8F_DWlOGx" version="14.6.1" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="981" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -126,37 +126,19 @@
         <mxCell id="5hGGPx97m1Oe2WC8NHgX-2" value="Työntekijä" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
           <mxGeometry x="500" y="410" width="160" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-5" value="Hlönumero&lt;br&gt;Ikä&lt;br&gt;Työsuhteen kesto&lt;br&gt;Työtehtävä&lt;br&gt;Tiimi tai esimies&lt;br&gt;&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-2">
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-5" value="Hlönumero&lt;br&gt;Ikä&lt;br&gt;Työsuhteen kesto&lt;br&gt;Työtehtävä&lt;br&gt;Toimipaikka&lt;br&gt;Liukumasaldo&lt;br&gt;Tiimi tai esimies&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=top;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-2">
           <mxGeometry y="30" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5hGGPx97m1Oe2WC8NHgX-6" value="Työaika" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
-          <mxGeometry x="700" y="220" width="160" height="120" as="geometry" />
+          <mxGeometry x="740" y="230" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-7" value="Tuotteelle kohdennettu aika&lt;br&gt;Liukumasaldo" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-6">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-8" value="Toimipaikka" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
-          <mxGeometry x="270" y="240" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-9" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-8">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-10" value="Asiakas" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
-          <mxGeometry x="740" y="400" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-11" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-10">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-12" value="Tuote" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
-          <mxGeometry x="270" y="420" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-13" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-12">
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-7" value="Tuotteelle kohdennettu aika&lt;br&gt;Liukumasaldo" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=top;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-6">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5hGGPx97m1Oe2WC8NHgX-14" value="Kirjanpito" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
-          <mxGeometry x="490" y="230" width="180" height="120" as="geometry" />
+          <mxGeometry x="280" y="250" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-15" value="+Laskutus / tuote&#xa;+Kustannukset / tuote&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-14">
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-15" value="Laskutus / tuote&#xa;Kustannukset / tuote&#xa;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-14">
           <mxGeometry y="30" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5hGGPx97m1Oe2WC8NHgX-16" value="&lt;h1&gt;Pilotin tietomalli&lt;/h1&gt;&lt;p&gt;Tarkastelujakso 1.1. - 31.12.2020&lt;br&gt;Ostolaskutuote/-tuotteet (?)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
