@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T07:48:03.657Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="n4JN4o4PrUEmTY9pgULX" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-20T07:17:16.795Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="qxgwDbKwpdWO8oIfvpr8" version="14.6.1" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="981" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="5hGGPx97m1Oe2WC8NHgX-2" value="Personec" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
           <mxGeometry x="500" y="410" width="160" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="5hGGPx97m1Oe2WC8NHgX-5" value="Ikä&lt;br&gt;Työsuhteen kesto&lt;br&gt;Työtehtävä&lt;br&gt;Toimipaikka&lt;br&gt;Tiimi tai esimies" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=top;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-2">
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-5" value="Ikä&lt;br&gt;Työsuhteen kesto&lt;br&gt;Työtehtävä&lt;br&gt;Toimipaikka&lt;br&gt;Tiimi &lt;br&gt;Esimies" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=top;points=[];fillColor=none;strokeColor=none;rounded=0;horizontal=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-2">
           <mxGeometry y="30" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5hGGPx97m1Oe2WC8NHgX-6" value="Sole" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
@@ -143,6 +143,24 @@
         </mxCell>
         <mxCell id="5hGGPx97m1Oe2WC8NHgX-7" value="Tuotteelle kohdennettu aika&lt;br&gt;Liukumasaldo" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=top;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
           <mxGeometry x="690" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-20" value="Työväline" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
+          <mxGeometry x="505" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-21" value="Käytettävä työväline (P2p vs Rondo)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-20">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-22" value="OSS" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
+          <mxGeometry x="180" y="420" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-23" value="Oma arvio&#xa;Esimiehen arvio" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-22">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-24" value="Henkilöstökysely" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-1">
+          <mxGeometry x="730" y="410" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5hGGPx97m1Oe2WC8NHgX-25" value="Tiimi (Kustannuspaikka)&#xa;Kyselyn vastaukset (N)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="5hGGPx97m1Oe2WC8NHgX-24">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
